@@ -9,7 +9,8 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    test changes
+    1) test changes from Git
+    2) changes from VS
     </div>
     </form>
 </body>
